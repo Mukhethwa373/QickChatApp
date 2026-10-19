@@ -25,8 +25,9 @@ static Scanner input = new Scanner(System.in);
         System.out.println("==============================");
 
         
-        String correctUsername = "Mukhethwa";
+        String correctUsername = "Khethi";
         String correctPassword = "40419";
+        String correctName = "Mukhethwa";
 
         boolean loggedIn = false;
 
